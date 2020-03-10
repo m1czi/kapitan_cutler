@@ -1,0 +1,41 @@
+cinnamon-session[4654]: WARNING: t+0,01681s: Could not get session id for session. Check that logind is properly installed and pam_systemd is getting used at login.
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-keyring-daemon: error getting process capabilities, aborting
+[cinnamon-settings-daemon-smartcard] Failed to start: nie odnaleziono odpowiedniego sterownika kart smartcard
+cmd_linux.go:85: cannot open snapd info file "/snap/core/current/usr/lib/snapd/info": open /snap/core/current/usr/lib/snapd/info: permission denied
+
+(polkit-gnome-authentication-agent-1:4956): polkit-gnome-1-WARNING **: Unable to determine the session we are in: No session for pid 4956
+Brak schematu „org.mate.screensaver”
+Brak schematu „apps.light-locker”
+Brak schematu „apps.light-locker”
+Brak schematu „apps.light-locker”
+Brak schematu „apps.light-locker”
+Cjs-Message: JS LOG: About to start Cinnamon
+** Message: nemo-desktop: session is cinnamon, establishing proxy
+St-Message: cogl npot texture sizes SUPPORTED
+Cjs-Message: JS LOG: Cinnamon started at Tue Mar 10 2020 09:47:45 GMT+0100 (CET)
+Cjs-Message: JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+openGL version 4.5 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+failed to create drawable
+failed to create drawable
+Cjs-Message: JS LOG: Invalid network device type, is 14
+Cjs-Message: JS LOG: network applet: Found connection for active
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+błąd: Podczas otwierania repozytorium /var/lib/flatpak/repo: Otwarcie pliku „/proc/sys/kernel/random/boot_id” się nie powiodło: Brak dostępu
+
+(cinnamon-screensaver-main.py:5065): GLib-GIO-WARNING **: Received property Position with type i does not match expected type x in the expected interface
+
+(cinnamon:4938): GLib-GIO-WARNING **: Received property SupportedMimeTypes with type av does not match expected type as in the expected interface
+
+(cinnamon:4938): GLib-GIO-WARNING **: Received property SupportedUriSchemes with type av does not match expected type as in the expected interface
+
+(cinnamon:4938): GLib-GIO-WARNING **: Received property Position with type i does not match expected type x in the expected interface
+Cjs-Message: JS WARNING: [/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js 458]: reference to undefined property value[0]
+
+(cinnamon:4938): Cjs-WARNING **: JS ERROR: TypeError: value[0] is undefined
+Player.prototype._dbus_acquired/<@/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js:458:13
+_proxyInvoker/asyncCallback@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:86:13
+
+Cinnamon warning: Log level 8: g_variant_get_int64: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_INT64)' failed

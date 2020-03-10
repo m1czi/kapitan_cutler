@@ -1,0 +1,31 @@
+cinnamon-session[5298]: WARNING: t+0,00671s: Could not get session id for session. Check that logind is properly installed and pam_systemd is getting used at login.
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-keyring-daemon: error getting process capabilities, aborting
+gnome-keyring-daemon: error getting process capabilities, aborting
+[cinnamon-settings-daemon-smartcard] Failed to start: nie odnaleziono odpowiedniego sterownika kart smartcard
+
+(polkit-gnome-authentication-agent-1:5550): polkit-gnome-1-WARNING **: Unable to determine the session we are in: No session for pid 5550
+Brak schematu „org.mate.screensaver”
+Brak schematu „apps.light-locker”
+Brak schematu „apps.light-locker”
+Brak schematu „apps.light-locker”
+Brak schematu „apps.light-locker”
+Cjs-Message: JS LOG: About to start Cinnamon
+St-Message: cogl npot texture sizes SUPPORTED
+Cjs-Message: JS LOG: Cinnamon started at Thu Oct 12 2017 11:40:01 GMT+0200 (CEST)
+
+(cinnamon:5538): St-WARNING **: Ignoring length property that isn't a number at line 1526, col 13
+Cjs-Message: JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+failed to create drawable
+Cjs-Message: JS LOG: Invalid network device type, is 14
+Cjs-Message: JS LOG: network applet: Found connection for active
+
+(cinnamon:5538): St-WARNING **: Ignoring length property that isn't a number at line 1526, col 13
+
+(cinnamon:5538): St-WARNING **: Ignoring length property that isn't a number at line 1526, col 13
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(cinnamon:5538): Clutter-CRITICAL **: clutter_actor_iter_next: assertion 'ri->age == ri->root->priv->age' failed
+cinnamon-session[5298]: GLib-GIO-CRITICAL: t+44,60097s: g_dbus_connection_call_internal: assertion 'object_path != NULL && g_variant_is_object_path (object_path)' failed
